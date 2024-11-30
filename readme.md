@@ -24,8 +24,7 @@ Asegúrate de tener instalados los siguientes programas:
 
 1. Clona este repositorio:
     ```bash
-    git clone https://github.com/PaulinaBach/entrega8backend.git
-    cd entrega8backend
+    git clone https://github.com/gmenezes228/Backend_entrega8
     ```
 
 2. Instala las dependencias:
